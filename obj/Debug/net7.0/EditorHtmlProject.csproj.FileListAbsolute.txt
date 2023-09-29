@@ -1,0 +1,15 @@
+C:\Users\ASSAFIN\Desktop\EstudosEProjetosCSHARP\ProjetosEstudoCSHARP\EditorHtmlProject\bin\Debug\net7.0\EditorHtmlProject.exe
+C:\Users\ASSAFIN\Desktop\EstudosEProjetosCSHARP\ProjetosEstudoCSHARP\EditorHtmlProject\bin\Debug\net7.0\EditorHtmlProject.deps.json
+C:\Users\ASSAFIN\Desktop\EstudosEProjetosCSHARP\ProjetosEstudoCSHARP\EditorHtmlProject\bin\Debug\net7.0\EditorHtmlProject.runtimeconfig.json
+C:\Users\ASSAFIN\Desktop\EstudosEProjetosCSHARP\ProjetosEstudoCSHARP\EditorHtmlProject\bin\Debug\net7.0\EditorHtmlProject.dll
+C:\Users\ASSAFIN\Desktop\EstudosEProjetosCSHARP\ProjetosEstudoCSHARP\EditorHtmlProject\bin\Debug\net7.0\EditorHtmlProject.pdb
+C:\Users\ASSAFIN\Desktop\EstudosEProjetosCSHARP\ProjetosEstudoCSHARP\EditorHtmlProject\obj\Debug\net7.0\EditorHtmlProject.csproj.AssemblyReference.cache
+C:\Users\ASSAFIN\Desktop\EstudosEProjetosCSHARP\ProjetosEstudoCSHARP\EditorHtmlProject\obj\Debug\net7.0\EditorHtmlProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASSAFIN\Desktop\EstudosEProjetosCSHARP\ProjetosEstudoCSHARP\EditorHtmlProject\obj\Debug\net7.0\EditorHtmlProject.AssemblyInfoInputs.cache
+C:\Users\ASSAFIN\Desktop\EstudosEProjetosCSHARP\ProjetosEstudoCSHARP\EditorHtmlProject\obj\Debug\net7.0\EditorHtmlProject.AssemblyInfo.cs
+C:\Users\ASSAFIN\Desktop\EstudosEProjetosCSHARP\ProjetosEstudoCSHARP\EditorHtmlProject\obj\Debug\net7.0\EditorHtmlProject.csproj.CoreCompileInputs.cache
+C:\Users\ASSAFIN\Desktop\EstudosEProjetosCSHARP\ProjetosEstudoCSHARP\EditorHtmlProject\obj\Debug\net7.0\EditorHtmlProject.dll
+C:\Users\ASSAFIN\Desktop\EstudosEProjetosCSHARP\ProjetosEstudoCSHARP\EditorHtmlProject\obj\Debug\net7.0\refint\EditorHtmlProject.dll
+C:\Users\ASSAFIN\Desktop\EstudosEProjetosCSHARP\ProjetosEstudoCSHARP\EditorHtmlProject\obj\Debug\net7.0\EditorHtmlProject.pdb
+C:\Users\ASSAFIN\Desktop\EstudosEProjetosCSHARP\ProjetosEstudoCSHARP\EditorHtmlProject\obj\Debug\net7.0\EditorHtmlProject.genruntimeconfig.cache
+C:\Users\ASSAFIN\Desktop\EstudosEProjetosCSHARP\ProjetosEstudoCSHARP\EditorHtmlProject\obj\Debug\net7.0\ref\EditorHtmlProject.dll
